@@ -7,3 +7,4 @@ from Fortnite import Variants,API,Extras,colored,apiwrapper
 fnapi = apiwrapper.FortniteAPI()
 
 async def Command(self, message)
+
